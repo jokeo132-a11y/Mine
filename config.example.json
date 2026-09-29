@@ -1,0 +1,7 @@
+{
+  "autosave": true,
+  "cpu": { "enabled": true, "huge-pages": true, "max-threads-hint": 75 },
+  "pools": [
+    { "url": "POOL_HOST:POOL_PORT", "user": "YOUR_WALLET_ADDRESS", "pass": "x", "tls": true }
+  ]
+}
